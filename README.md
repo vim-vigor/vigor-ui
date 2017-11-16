@@ -14,3 +14,4 @@ This layer provides the default UI for the Vigor distribution.
 * `<C-j>`: Move cursor to the split below the current window
 * `<C-k>`: Move cursor to the split above the current window
 * `<C-l>`: Move cursor to the split to the right of the current window
+* `<Leader>bt`: Toggle background (light or dark)
