@@ -7,6 +7,7 @@ This layer provides the default UI for the Vigor distribution.
 * morhetz/gruvbox
 * vim-airline/vim-airline
 * mhinz/vim-startify
+* junegunn/fzf.vim
 
 ## Keymaps
 
@@ -15,3 +16,4 @@ This layer provides the default UI for the Vigor distribution.
 * `<C-k>`: Move cursor to the split above the current window
 * `<C-l>`: Move cursor to the split to the right of the current window
 * `<Leader>bt`: Toggle background (light or dark)
+* `<Leader>f`: Use fzf
