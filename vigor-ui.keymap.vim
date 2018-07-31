@@ -9,3 +9,4 @@ map <Leader>bt :let &background = ( &background == "dark"? "light" : "dark" )<CR
 
 " Use fzf
 map <Leader>f :Files<CR>
+map <Leader>b :Buffers<CR>
