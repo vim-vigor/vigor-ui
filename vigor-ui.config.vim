@@ -1,6 +1,6 @@
 " Set the color scheme to gruvbox
-colorscheme gruvbox
-let g:airline_theme = 'gruvbox'
+colorscheme dracula
+let g:airline_theme = 'dracula'
 
 " Use the dark variant of the theme.
 set background=dark
@@ -60,4 +60,3 @@ let g:startify_list_order = [
 
 " Set up a bookmark for Vigor configuration
 let g:startify_bookmarks = [{ 'v': '~/.vigor' }]
-
